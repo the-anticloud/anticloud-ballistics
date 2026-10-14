@@ -1,0 +1,3 @@
+# Perf notes — BALLISTICS
+
+Cold import/start not measured in this static pass (see BENCH.json files/loc: ['AudioManager.asset', 'ClusterInputManager.asset', 'DynamicsManager.asset', 'EditorBuildSettings.asset', 'EditorSettings.asset', 'GraphicsSettings.asset', 'InputManager.asset', 'NavMeshAreas.asset', 'NetworkManager.asset', 'Physics2DSettings.asset', 'PresetManager.asset', 'ProjectSettings.asset', 'ProjectVersion.txt', 'QualitySettings.asset', 'TagManager.asset', 'TimeManager.asset', 'UnityConnectSettings.asset', 'VFXManager.asset']/797). Run stamp: 2026-10-06T06:49:42.368103Z.
